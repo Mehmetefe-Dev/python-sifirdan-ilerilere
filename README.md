@@ -1,6 +1,6 @@
 # python-sifirdan-ilerilere
 🐍 My Python learning journey from zero to hero. Contains basic scripts, algorithms and projects. 
-* Welcome! This repository is a collection of my personal journey through the Python programming language. I started from the very basics, and I’m now working towards more advanced concepts and real-world projects.
+- Welcome! This repository is a collection of my personal journey through the Python programming language. I started from the very basics, and I’m now working towards more advanced concepts and real-world projects.
 
 🚀 What’s inside?
 I organized this repo to keep track of my progress. You can find:
