@@ -4,11 +4,11 @@ Welcome! This repository is a collection of my personal journey through the Pyth
 
 🚀 What’s inside?
 I organized this repo to keep track of my progress. You can find:
-*  · The Basics: Variables, loops, and logic.
-*  · Data Handling: Working with lists, dictionaries, and file management.
-*  · OOP: Learning Object-Oriented Programming (Classes and Methods).
-*  · Databases: Managing data using SQLite.
-*  · My Projects: Small scripts and tools I've built along the way.
+*   The Basics: Variables, loops, and logic.
+*   Data Handling: Working with lists, dictionaries, and file management.
+*   OOP: Learning Object-Oriented Programming (Classes and Methods).
+*   Databases: Managing data using SQLite.
+*   My Projects: Small scripts and tools I've built along the way.
 
 🛠️ Tech Stack
 🎯 My Goals
